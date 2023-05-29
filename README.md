@@ -2,7 +2,9 @@
 Made by Aryan, Mark, Soon Wei and Wan Lei 
 
 This project was made using VSCode, Flutter, Firebase and Android Studio.
-Language used: Dart, C++, CMake, Swift, HTML, C
+
+Language used: Dart, C++, CMake, Swift, HTML, C.
+
 FocusFit is an innovative workplace productivity application designed to enhance concentration and physical well-being among workers. By seamlessly combining task-focused time management with regular exercise prompts, this app aims to optimize work performance and promote a healthier work environment.
 
 # Files
