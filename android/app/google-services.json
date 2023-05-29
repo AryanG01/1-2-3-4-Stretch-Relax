@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966518421247",
+    "project_id": "lifehack-nus",
+    "storage_bucket": "lifehack-nus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966518421247:android:ec8d0ad0544651d4cefeca",
+        "android_client_info": {
+          "package_name": "com.example.lifehack_nus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8POy_YmYgqEJGAagGTgq4dr7LCj9L4dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
