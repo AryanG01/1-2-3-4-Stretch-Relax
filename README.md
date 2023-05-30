@@ -1,4 +1,4 @@
-# Office-Paradise
+# 1-2-3-4-Stretch-Relax
 Made by Aryan, Mark, Soon Wei and Wan Lei 
 
 This project was made using VSCode, Flutter, Firebase and Android Studio.
